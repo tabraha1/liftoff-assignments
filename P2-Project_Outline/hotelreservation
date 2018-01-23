@@ -1,0 +1,24 @@
+Overview
+Hotel Reservation System - Create a reservation system which books hotel rooms for a fictional hotel. 
+It charges various rates for particular sections of the hotel. Example, hotel rooms that have penthouse suites cost more. 
+Keep track of when rooms will be available and can be scheduled.
+
+I hope to build this as a mobile, responsive website. I'll design and build a REST API using Java and Spring Boot. 
+Then build a responsive frontend using AngularJS 2 and Twitter Bootstrap. Finally test each end-point using Postman.
+
+Features
+A user will be able to search for available rooms based on a check-in and check-out date.
+User will be able to create a reservation, update a reservation, and delete a reservation.
+
+Technologies
+Java
+Spring Boot
+AngularJS 2
+SASS
+Twitter Bootstrap
+Postman
+
+What I'll Have to Learn
+I'll learn frontend UX design and technologies such as SASS, Javascript, AngularJS and also a backend REST API using Spring
+Boot and Postman. 
+The challenge will be to bring all these technologies together to make a stylish, and functional website.
